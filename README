@@ -1,0 +1,18 @@
+This repository contains a calculator with these functions:
+-Add
+-Subtract
+-Multiply
+-Divide
+-Square root
+-Cube root
+-x^2
+-x^y
+-Absolute value of a number
+-Finding area and perimiter of a circle
+-Finding the suarface area and volume of a cube
+-Finding the roots of a quadratic (ax^2+bx+c)
+-Finding the value of i^x
+-Performing synthetic division on poynomials up to x^7
+
+Any comments on this calculator's proformance are greatly appreciated.
+If you find a way to reduce the amount of code necisary for it to function, leave a comment.
