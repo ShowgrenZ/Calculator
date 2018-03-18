@@ -500,6 +500,6 @@ class Synth {
 
 
 /* Code created by Zachary Showgren.
-MathSolvers.java is free to use.
+Calculator.java is free to use.
 Please leave any feedback on its proformance and/or edits you found helpful on my GitHub: ShowgrenZ
 */
