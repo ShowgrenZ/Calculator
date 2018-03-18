@@ -495,6 +495,40 @@ class Synth {
 	}
 }
 
+class NaturalLog {
+	public static void main(String[] args){
+		Scanner input = new Scanner(System.in);
+
+		System.out.println("Imput number:");
+		double num1 = input.nextDouble();
+
+		double log = Math.log(num1);
+
+		System.out.println("ln("+num1+")="+log);
+	}
+}
+
+class PERT {
+	public static void main(String[] args){
+		Scanner input = new Scanner(System.in);
+		
+		System.out.print("Input P: ");
+		double p = input.nextDouble();
+		
+		System.out.print("Input r (enter in decimal format): ");
+		double r = input.nextDouble();
+
+		System.out.print("Input t: ");
+		double t1 = input.nextDouble();
+
+		double exp1 = r*t1;
+		double e2 = Math.exp(exp1);
+		double a1 = p*e2;
+
+		System.out.println("A=Pe^(rt) A="+a1);
+	}
+}
+
 
 
 
